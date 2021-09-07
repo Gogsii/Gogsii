@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gogsii
-- 👀 I’m interested in Real Estate, Finance, and Programming.
+- 👀 I’m interested in Real Estate, FinTech, and Programming.
 - 🌱 I’m currently learning Javascript & Python.
 - 💞️ I’m looking to collaborate on FinTech Projects
 - 📫 How to reach me @gogsii on Twitter and @gogsi on IG.
