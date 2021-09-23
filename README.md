@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gogsii
+- 👋 Hi, I’m Goran (friends call me Gogsi)
 - 👀 I’m interested in Real Estate, FinTech, and Programming.
-- 🌱 I’m currently learning Javascript & Python.
+- 🌱 I’m a JavaScript enthusiast (+Python)
 - 💞️ I’m looking to collaborate on FinTech Projects
 - 📫 How to reach me @gogsii on Twitter and @gogsi on IG.
 
