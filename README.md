@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Goran (friends call me Gogsi).
-- 👀 I’m looking to transition into a software dev role.
+- 👀 I’m looking to transition into software dev.
 - 🌱 I’m a JavaScript enthusiast (+Python).
 - 💞️ I’m interested in Real Estate, FinTech, and Programming.
 - 📫 How to reach me @gogsii on Twitter and @gogsi on IG.
