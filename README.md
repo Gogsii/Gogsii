@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Goran (friends call me Gogsi).
 - 🌱 I’m a JavaScript enthusiast.
-- 👀 I’m looking to transition into software dev.
+- 👀 I’m transitioning into software dev.
 - 👨🏻‍💻 I’m currently working on a MERN app that screens dividend paying stocks
-- 💞️ I’m interested in Real Estate, FinTech, and EdTech.
+- 💞️ Interest include, but not limited to, Real Estate, FinTech, EdTech and Soccer.
 - 📫 Check out my [portfolio] or connect with me on [Linkedin] 
 
 <!---
