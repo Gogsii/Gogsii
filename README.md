@@ -2,7 +2,7 @@
 - 🌱 I’m a JavaScript enthusiast.
 - 👀 I’m transitioning into software dev.
 - 👨🏻‍💻 I’m currently working on a MERN app that screens dividend paying stocks
-- 💞️ Interest include, but not limited to, Real Estate, FinTech, Learning, and Soccer.
+- 💞️ Interest include, but not limited to Real Estate, FinTech, Content Marketing, Learning and Soccer.
 - 📫 Check out my [portfolio] or connect with me on [Linkedin] 
 
 <!---
