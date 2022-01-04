@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Goran (friends call me Gogsi).
-- 🌱 I’m a JavaScript enthusiast.
+- 🌱 I’m a Digital Marketer & JavaScript enthusiast.
 - 👀 I’m most comfortable with React and NextJS.
 - 👨🏻‍💻 I’m currently experimenting with combining NextJS & React Native.
 - 💞️ Interest include, but not limited to Real Estate, FinTech, Automation, Learning and Soccer.
