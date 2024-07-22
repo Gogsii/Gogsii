@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Goran (friends call me Gogsi).
 - 🌱 I’m a Digital Marketer & Programming enthusiast.
--  👨🏻‍💻 I’m currently building a website with NextJS and Strapi (thought I may change it to Headless WordPress).
+-  👨🏻‍💻 I’m currently building a website with NextJS and Strapi (...though I may change it to Headless WordPress).
 - 💞️ Interest include, but not limited to Gardening, Investing, eCommerce, Learning and Soccer.
 
 <!---
